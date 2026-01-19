@@ -1,14 +1,3 @@
-# Praktični zadatak – Ekstrakcija podataka iz PDF dokumenata
-
-**Kolegij:** Uvod u teorijsko računarstvo  
-**Nositelj predmeta:** Prof. dr. sc. Sanda Martinčić-Ipšić  
-**Asistent:** Andrija Poleksić, mag. inf.  
-
-Autor: Ivan Pribanić  
-Godina: 2026  
-
----
-
 ## 1. Opis zadatka
 
 Cilj zadatka je automatski izlučiti strukturirane podatke iz nepristupačnih PDF dokumenata znanstvenih radova iz domene klimatskih promjena te ih spremiti u više čitljivih formata.
